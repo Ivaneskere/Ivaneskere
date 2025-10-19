@@ -1,23 +1,24 @@
-<!-- 👋 Привітальна GIF -->
+<!-- 👋 Fun animated greeting -->
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Hello gif">
 </p>
 
 # 👋 Привіт! Я Іван — aka **holtendays** 😎  
-### 💻 Strong Junior Front-End Developer | 🛡️ Студент кібербезпеки (125)
+### 💻 Strong Junior Front-End Developer | 🛡️ Cybersecurity Student (125)
 
 ---
 
-## 🌍 About Me | Про мене
+## 🧑‍💻 About Me / Про мене
 
 🇺🇦  
-Привіт! Я Іван — студент спеціальності **125 — Кібербезпека** 💻  
-Паралельно розвиваюсь як **Strong Junior Front-End Developer**, створюючи зручні, швидкі та стильні вебсайти 🚀  
-Обожнюю нові технології, командну роботу та вирішення складних задач.
+Мене звати Іван, і я займаюся веброзробкою з **2020 року**, починаючи з базових технологій — **HTML** та **CSS**.  
+На початку **2025 року** я вирішив розвивати навички більш системно: пройшов курси з **Advanced JavaScript**, потім поглибив знання в **TypeScript** і **React**.  
+До кінця **2025 року** (після завершення поточного курсу у листопаді) планую опанувати **Node.js** та впевнено рухатися до рівня **Full-Stack Developer**.
 
 🇬🇧  
-Hi there! I'm Ivan — a **Strong Junior Front-End Developer** and **Cybersecurity student (125)**.  
-I love building fast, functional, and fun web applications, exploring modern tech, and improving my skills every day 🚀
+I started my journey in web development back in **2020**, working with the fundamentals — **HTML** and **CSS**.  
+At the beginning of **2025**, I decided to take my skills to the next level and began structured learning: I completed advanced courses in **JavaScript**, then deepened my knowledge with **TypeScript** and **React**.  
+By the end of **2025** (after finishing my current course in November), I plan to master **Node.js** and move confidently toward becoming a **full-stack developer**.
 
 ---
 
@@ -29,23 +30,20 @@ I love building fast, functional, and fun web applications, exploring modern tec
 
 ---
 
-## 📂 My Projects | Мої проєкти
-
-🇺🇦 Тут будуть мої основні проєкти 👇  
-🇬🇧 Here will be my featured projects 👇
+## 📂 My Projects / Мої проєкти
 
 | Проєкт | Опис | Посилання |
 |--------|------|-----------|
-| 🚀 Проєкт 1 | Короткий опис першого проєкту | [🔗 Repo link](https://github.com/holtendays/project-1) |
-| 💡 Проєкт 2 | Ще один класний проєкт | [🔗 Repo link](https://github.com/holtendays/project-2) |
-| 📱 Проєкт 3 | (Можеш додати пізніше) | [🔗 Repo link](https://github.com/holtendays/project-3) |
+| 🕹️ ElectronGame | Настільна гра на Electron.js | [🔗 GitHub Repo](https://github.com/Ivaneskere/ElectronGame) |
+| 🚀 Coming Soon | Ще один крутий проєкт незабаром! | 🔧 |
+| 💡 Coming Soon | Новий проєкт у процесі... | 🔧 |
 
 ---
 
 ## ☕ Fun Facts 😅
 
 > ☕️ + ⚡️ = 💥  
-> Кава + енергетик — мій секретний фреймворк для дедлайнів.  
+> Кава + енергетик — це мій секретний фреймворк для дедлайнів.  
 > Works faster than Webpack in production 😎
 
 > 🐛 “Немає бага — немає проблеми.”  
@@ -71,6 +69,14 @@ I love building fast, functional, and fun web applications, exploring modern tec
 
 ---
 
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=holtendays&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
 ## 🐍 Commit Snake
 
 <p align="center">
@@ -87,6 +93,5 @@ I love building fast, functional, and fun web applications, exploring modern tec
 
 ---
 
-🚀 *“Код — це не просто текст. Це спосіб мислення.”*  
+🚀 **“Код — це не просто текст. Це спосіб мислення.”**  
 💡 *"Code is not just text — it's a way of thinking."*
-
