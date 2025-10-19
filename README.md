@@ -25,7 +25,7 @@ By the end of **2025** (after finishing my current course in November), I plan t
 ## 🛠️ Tech Stack | Технології
 
 💻 Front-End: HTML, CSS, Bootstrap, JavaScript  
-⚙️ Tools: Electron.js, Babel, Webpack, npm, API 
+⚙️ Tools: Electron.js, Babel, Webpack, npm, API, JSON
 📦 Concepts: OOP in JavaScript, UI/UX logic  
 
 ---
@@ -43,8 +43,10 @@ By the end of **2025** (after finishing my current course in November), I plan t
 ## ☕ Fun Facts 😅
 
 > ☕️ + ⚡️ = 💥  
-> Кава + енергетик — це мій секретний фреймворк для дедлайнів.  
+> Coffee + energy drinks — that's my secret framework for deadlines
 > Works faster than Webpack in production 😎
+> 💻 Of all the code editors, **VS Code** understands me best — we are literally on the same wavelength when working.
+> ⏱️ I say to myself, ‘I'll just pop into VS Code for 5 minutes...’ — and then I come out 5 hours later.
 
 > 🐛 “Немає бага — немає проблеми.”  
 > (Joking… or maybe not 🤔)
