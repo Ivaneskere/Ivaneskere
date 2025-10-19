@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Hello gif">
 </p>
 
-# 👋 Привіт! Я Іван — aka **holtendays** 😎  
+# 👋 Привіт! Я Іван — aka **holtendays** 😎  | Hi! Im Ivan — aka **holtendays**
 ### 💻 Strong Junior Front-End Developer | 🛡️ Cybersecurity Student (125)
 
 ---
