@@ -25,7 +25,7 @@ By the end of **2025** (after finishing my current course in November), I plan t
 ## 🛠️ Tech Stack | Технології
 
 💻 Front-End: HTML, CSS, Bootstrap, JavaScript  
-⚙️ Tools: Electron.js, Babel, Webpack, npm  
+⚙️ Tools: Electron.js, Babel, Webpack, npm, API 
 📦 Concepts: OOP in JavaScript, UI/UX logic  
 
 ---
