@@ -63,8 +63,8 @@ By the end of **2025** (after finishing my current course in November), I plan t
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=holtendays&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=holtendays&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ivaneskere&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivaneskere&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@ By the end of **2025** (after finishing my current course in November), I plan t
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=holtendays&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Ivaneskere&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -80,7 +80,7 @@ By the end of **2025** (after finishing my current course in November), I plan t
 ## 🐍 Commit Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/holtendays/holtendays/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Ivaneskere/Ivaneskere/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -88,7 +88,7 @@ By the end of **2025** (after finishing my current course in November), I plan t
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=holtendays&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ivaneskere&theme=tokyo-night" />
 </p>
 
 ---
