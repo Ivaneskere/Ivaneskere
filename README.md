@@ -77,14 +77,6 @@ By the end of **2025** (after finishing my current course in November), I plan t
 
 ---
 
-## 🐍 Commit Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ivaneskere/Ivaneskere/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
